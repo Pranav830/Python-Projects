@@ -78,6 +78,8 @@ if __name__ == "__main__":
             strTime = datetime.datetime.now().strftime("%H:%M:%S")
             speak(f"Sir, The time is {strTime}")
 
+            
+
 
 
 
